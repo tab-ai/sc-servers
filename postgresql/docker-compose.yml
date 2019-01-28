@@ -1,0 +1,20 @@
+version: '3'
+
+services:
+  postgres:
+    image: postgres:10.1
+    restart: always
+    ports:
+      - $PGDB_PORT:5432
+    environment:
+      - POSTGRES_USER=$PGDB_USER
+      - POSTGRES_PASSWORD=$PGDB_PASSWORD
+      - POSTGRES_DB=$PGDB_DB
+      - POSTGRES_INITDB_ARGS=--encoding=UTF-8
+    healthcheck:
+      test: "pg_isready -h localhost -p 5432 -q -U postgres"
+      interval: 3s
+      timeout: 1s
+      retries: 10
+    volumes:
+      - $PGDB_PATH:/var/lib/postgresql/data

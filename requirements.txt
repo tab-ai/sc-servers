@@ -1,0 +1,8 @@
+django==2.1
+apscheduler==3.5.1
+psycopg2==2.7.4
+psycopg2-binary==2.7.4
+gatt==0.2.7
+python-dotenv==0.10.1
+django-cors-headers==2.4.0
+djangorestframework==3.9.0
