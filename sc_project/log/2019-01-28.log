@@ -1,0 +1,380 @@
+WARNING 28/Jan/2019 12:45:39 log 21536 1952715888 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:45:39 basehttp 21536 1952715888 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:45:39 log 21536 1952715888 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:45:39 basehttp 21536 1952715888 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:45:39 log 21536 1952715888 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:45:39 basehttp 21536 1952715888 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:45:39 log 21536 1943008368 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:45:39 basehttp 21536 1943008368 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+INFO 28/Jan/2019 12:45:40 basehttp 21536 1943008368 "GET /api/dashboard/?format=json HTTP/1.1" 200 2
+WARNING 28/Jan/2019 12:45:41 log 21536 1917842544 Not Found: /api/dashboard/temp/vsc_0001
+INFO 28/Jan/2019 12:45:41 basehttp 21536 1943008368 "GET /api/dashboard/?format=json HTTP/1.1" 200 2
+WARNING 28/Jan/2019 12:45:41 basehttp 21536 1917842544 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:45:41 log 21536 1907356784 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:45:41 basehttp 21536 1907356784 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:45:44 log 21536 1917842544 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:45:44 log 21536 1943008368 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:45:44 basehttp 21536 1943008368 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:45:44 basehttp 21536 1917842544 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:45:47 log 21536 1917842544 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:45:47 basehttp 21536 1917842544 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:45:47 log 21536 1943008368 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:45:47 basehttp 21536 1943008368 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:45:47 log 21536 1917842544 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:45:47 basehttp 21536 1917842544 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:45:47 log 21536 1943008368 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:45:47 basehttp 21536 1943008368 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+INFO 28/Jan/2019 12:45:47 basehttp 21536 1943008368 "GET / HTTP/1.1" 200 2145
+INFO 28/Jan/2019 12:45:47 basehttp 21536 1898968176 "GET /static/css/main.20a6d4c4.chunk.css HTTP/1.1" 200 354
+INFO 28/Jan/2019 12:45:47 basehttp 21536 1943008368 "GET /static/css/1.4b68b18b.chunk.css HTTP/1.1" 200 3353
+INFO 28/Jan/2019 12:45:47 basehttp 21536 1888482416 "GET /static/js/main.4f70be41.chunk.js HTTP/1.1" 200 16395
+INFO 28/Jan/2019 12:45:47 basehttp 21536 1917842544 "GET /static/js/1.cfc3be95.chunk.js HTTP/1.1" 200 634990
+INFO 28/Jan/2019 12:45:48 basehttp 21536 1943008368 "GET /static/media/roboto-latin-400.5d4aeb4e.woff2 HTTP/1.1" 200 15344
+INFO 28/Jan/2019 12:45:48 basehttp 21536 1917842544 "GET /api/dashboard/?format=json HTTP/1.1" 200 2
+WARNING 28/Jan/2019 12:45:50 log 21536 1917842544 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:45:50 basehttp 21536 1917842544 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:45:50 log 21536 1943008368 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:45:50 basehttp 21536 1943008368 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+INFO 28/Jan/2019 12:45:51 basehttp 21536 1943008368 "GET /static/media/roboto-latin-500.28546717.woff2 HTTP/1.1" 200 15552
+WARNING 28/Jan/2019 12:45:53 log 21536 1917842544 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:45:53 basehttp 21536 1917842544 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:45:53 log 21536 1898968176 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:45:53 basehttp 21536 1898968176 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:45:55 log 21536 1917842544 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:45:55 basehttp 21536 1917842544 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:45:55 log 21536 1880093808 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:45:55 basehttp 21536 1880093808 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+INFO 28/Jan/2019 12:45:55 basehttp 21536 1898968176 "GET /api/dashboard/?format=json HTTP/1.1" 200 2
+INFO 28/Jan/2019 12:45:56 basehttp 21536 1898968176 "GET /api/dashboard/?format=json HTTP/1.1" 200 2
+WARNING 28/Jan/2019 12:45:56 log 21536 1917842544 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:45:56 log 21536 1880093808 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:45:56 basehttp 21536 1917842544 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:45:56 basehttp 21536 1880093808 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:45:59 log 21536 1880093808 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:45:59 basehttp 21536 1880093808 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:45:59 log 21536 1898968176 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:45:59 basehttp 21536 1898968176 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:02 log 21536 1880093808 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:46:02 basehttp 21536 1880093808 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:02 log 21536 1898968176 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:46:02 basehttp 21536 1898968176 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:03 log 21536 1880093808 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:46:03 basehttp 21536 1880093808 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:03 log 21536 1871705200 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:46:03 basehttp 21536 1871705200 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+INFO 28/Jan/2019 12:46:04 basehttp 21536 1871705200 "GET /api/dashboard/?format=json HTTP/1.1" 200 2
+WARNING 28/Jan/2019 12:46:05 log 21536 1871705200 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:46:05 basehttp 21536 1871705200 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:05 log 21536 1880093808 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:46:05 basehttp 21536 1880093808 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+INFO 28/Jan/2019 12:46:06 basehttp 21536 1880093808 "GET /api/ HTTP/1.1" 200 5344
+WARNING 28/Jan/2019 12:46:08 log 21536 1871705200 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:46:08 basehttp 21536 1871705200 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:08 log 21536 1863316592 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:46:08 basehttp 21536 1863316592 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+INFO 28/Jan/2019 12:46:09 basehttp 21536 1863316592 "GET /api/bt_dev/ HTTP/1.1" 200 9735
+INFO 28/Jan/2019 12:46:10 basehttp 21536 1863316592 "GET /api/dashboard/?format=json HTTP/1.1" 200 2
+WARNING 28/Jan/2019 12:46:11 log 21536 1871705200 Not Found: /api/dashboard/temp/vsc_0001
+INFO 28/Jan/2019 12:46:11 basehttp 21536 1863316592 "GET /api/dashboard/?format=json HTTP/1.1" 200 2
+WARNING 28/Jan/2019 12:46:11 basehttp 21536 1871705200 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:11 log 21536 1854927984 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:46:11 basehttp 21536 1854927984 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:11 log 21536 1871705200 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:46:11 basehttp 21536 1871705200 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:11 log 21536 1854927984 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:46:11 basehttp 21536 1854927984 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:14 log 21536 1871705200 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:46:14 log 21536 1863316592 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:46:14 basehttp 21536 1863316592 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:14 basehttp 21536 1871705200 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+INFO 28/Jan/2019 12:46:16 basehttp 21536 1871705200 "GET /api/bt_dev/1 HTTP/1.1" 301 0
+INFO 28/Jan/2019 12:46:17 basehttp 21536 1871705200 "GET /api/bt_dev/1/ HTTP/1.1" 200 10641
+WARNING 28/Jan/2019 12:46:17 log 21536 1863316592 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:46:17 basehttp 21536 1863316592 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:17 log 21536 1846539376 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:46:17 basehttp 21536 1846539376 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:19 log 21536 1871705200 Not Found: /api/dashboard/temp/vsc_0001
+INFO 28/Jan/2019 12:46:19 basehttp 21536 1863316592 "GET /api/dashboard/?format=json HTTP/1.1" 200 2
+WARNING 28/Jan/2019 12:46:19 basehttp 21536 1871705200 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:19 log 21536 1838150768 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:46:19 basehttp 21536 1838150768 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:20 log 21536 1838150768 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:46:20 log 21536 1871705200 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:46:20 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:20 basehttp 21536 1871705200 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+INFO 28/Jan/2019 12:46:21 basehttp 21536 1871705200 "PUT /api/bt_dev/1/ HTTP/1.1" 200 10632
+INFO 28/Jan/2019 12:46:23 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 200 53
+INFO 28/Jan/2019 12:46:23 basehttp 21536 1863316592 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 200 52
+INFO 28/Jan/2019 12:46:25 basehttp 21536 1863316592 "GET /api/dashboard/?format=json HTTP/1.1" 200 93
+INFO 28/Jan/2019 12:46:25 basehttp 21536 1863316592 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 200 53
+INFO 28/Jan/2019 12:46:25 basehttp 21536 1838150768 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 200 52
+INFO 28/Jan/2019 12:46:26 basehttp 21536 1863316592 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 200 53
+INFO 28/Jan/2019 12:46:26 basehttp 21536 1829762160 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 200 52
+INFO 28/Jan/2019 12:46:26 basehttp 21536 1838150768 "GET /api/dashboard/?format=json HTTP/1.1" 200 93
+INFO 28/Jan/2019 12:46:26 basehttp 21536 1829762160 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 200 53
+INFO 28/Jan/2019 12:46:26 basehttp 21536 1838150768 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 200 52
+INFO 28/Jan/2019 12:46:27 basehttp 21536 1829762160 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 200 52
+INFO 28/Jan/2019 12:46:27 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 200 53
+INFO 28/Jan/2019 12:46:29 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 200 53
+INFO 28/Jan/2019 12:46:29 basehttp 21536 1829762160 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 200 52
+INFO 28/Jan/2019 12:46:30 basehttp 21536 1829762160 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 200 53
+INFO 28/Jan/2019 12:46:30 basehttp 21536 1838150768 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 200 52
+INFO 28/Jan/2019 12:46:32 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 200 53
+INFO 28/Jan/2019 12:46:32 basehttp 21536 1829762160 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 200 52
+INFO 28/Jan/2019 12:46:33 basehttp 21536 1829762160 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 200 53
+INFO 28/Jan/2019 12:46:33 basehttp 21536 1838150768 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 200 52
+INFO 28/Jan/2019 12:46:34 basehttp 21536 1829762160 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 200 52
+INFO 28/Jan/2019 12:46:34 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 200 53
+INFO 28/Jan/2019 12:46:34 basehttp 21536 1863316592 "GET /api/dashboard/?format=json HTTP/1.1" 200 93
+INFO 28/Jan/2019 12:46:34 basehttp 21536 1863316592 "GET /static/icons/1.png HTTP/1.1" 200 4061
+INFO 28/Jan/2019 12:46:34 basehttp 21536 1863316592 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 200 53
+INFO 28/Jan/2019 12:46:34 basehttp 21536 1838150768 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 200 52
+INFO 28/Jan/2019 12:46:35 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 200 53
+INFO 28/Jan/2019 12:46:35 basehttp 21536 1863316592 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 200 52
+INFO 28/Jan/2019 12:46:35 basehttp 21536 1863316592 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 200 52
+INFO 28/Jan/2019 12:46:35 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 200 53
+INFO 28/Jan/2019 12:46:36 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 200 53
+INFO 28/Jan/2019 12:46:36 basehttp 21536 1863316592 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 200 52
+INFO 28/Jan/2019 12:46:38 basehttp 21536 1838150768 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 200 52
+INFO 28/Jan/2019 12:46:38 basehttp 21536 1863316592 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 200 53
+INFO 28/Jan/2019 12:46:38 basehttp 21536 1863316592 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 200 52
+INFO 28/Jan/2019 12:46:38 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 200 53
+INFO 28/Jan/2019 12:46:39 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 200 53
+INFO 28/Jan/2019 12:46:39 basehttp 21536 1863316592 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 200 52
+INFO 28/Jan/2019 12:46:40 basehttp 21536 1863316592 "GET /api/dashboard/?format=json HTTP/1.1" 200 93
+INFO 28/Jan/2019 12:46:40 basehttp 21536 1863316592 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 200 53
+INFO 28/Jan/2019 12:46:40 basehttp 21536 1838150768 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 200 52
+INFO 28/Jan/2019 12:46:41 basehttp 21536 1838150768 "GET /api/dashboard/?format=json HTTP/1.1" 200 93
+INFO 28/Jan/2019 12:46:41 basehttp 21536 1863316592 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 200 53
+INFO 28/Jan/2019 12:46:41 basehttp 21536 1829762160 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 200 52
+INFO 28/Jan/2019 12:46:42 basehttp 21536 1829762160 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 200 53
+INFO 28/Jan/2019 12:46:42 basehttp 21536 1838150768 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 200 52
+INFO 28/Jan/2019 12:46:42 basehttp 21536 1829762160 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 200 52
+INFO 28/Jan/2019 12:46:42 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 200 53
+INFO 28/Jan/2019 12:46:43 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 200 53
+INFO 28/Jan/2019 12:46:43 basehttp 21536 1829762160 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 200 52
+INFO 28/Jan/2019 12:46:43 basehttp 21536 1829762160 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 200 53
+INFO 28/Jan/2019 12:46:43 basehttp 21536 1838150768 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 200 52
+INFO 28/Jan/2019 12:46:44 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 200 53
+INFO 28/Jan/2019 12:46:44 basehttp 21536 1829762160 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 200 52
+INFO 28/Jan/2019 12:46:45 basehttp 21536 1829762160 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 200 53
+INFO 28/Jan/2019 12:46:45 basehttp 21536 1838150768 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 200 52
+INFO 28/Jan/2019 12:46:46 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 200 53
+INFO 28/Jan/2019 12:46:46 basehttp 21536 1829762160 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 200 52
+INFO 28/Jan/2019 12:46:47 basehttp 21536 1829762160 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 200 53
+INFO 28/Jan/2019 12:46:47 basehttp 21536 1838150768 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 200 52
+INFO 28/Jan/2019 12:46:48 basehttp 21536 1829762160 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 200 53
+INFO 28/Jan/2019 12:46:48 basehttp 21536 1838150768 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 200 52
+INFO 28/Jan/2019 12:46:48 basehttp 21536 1838150768 "GET /api/dashboard/?format=json HTTP/1.1" 200 93
+WARNING 28/Jan/2019 12:46:49 log 21536 1838150768 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:46:49 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:49 log 21536 1829762160 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:46:49 basehttp 21536 1829762160 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:50 log 21536 1829762160 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:46:50 basehttp 21536 1829762160 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:50 log 21536 1838150768 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:46:50 basehttp 21536 1838150768 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:50 log 21536 1838150768 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:46:50 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:50 log 21536 1829762160 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:46:50 basehttp 21536 1829762160 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:51 log 21536 1829762160 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:46:51 basehttp 21536 1829762160 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:51 log 21536 1838150768 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:46:51 basehttp 21536 1838150768 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:51 log 21536 1838150768 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:46:51 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:51 log 21536 1829762160 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:46:51 basehttp 21536 1829762160 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:52 log 21536 1829762160 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:46:52 basehttp 21536 1829762160 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:52 log 21536 1838150768 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:46:52 basehttp 21536 1838150768 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:53 log 21536 1838150768 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:46:53 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:53 log 21536 1829762160 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:46:53 basehttp 21536 1829762160 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:54 log 21536 1829762160 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:46:54 basehttp 21536 1829762160 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:54 log 21536 1838150768 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:46:54 basehttp 21536 1838150768 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+INFO 28/Jan/2019 12:46:55 basehttp 21536 1838150768 "GET /api/dashboard/?format=json HTTP/1.1" 200 2
+WARNING 28/Jan/2019 12:46:55 log 21536 1838150768 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:46:55 log 21536 1829762160 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:46:55 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:55 basehttp 21536 1829762160 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:56 log 21536 1829762160 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:46:56 basehttp 21536 1829762160 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+INFO 28/Jan/2019 12:46:56 basehttp 21536 1838150768 "GET /api/dashboard/?format=json HTTP/1.1" 200 2
+WARNING 28/Jan/2019 12:46:56 log 21536 1863316592 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:46:56 basehttp 21536 1863316592 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:57 log 21536 1863316592 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:46:57 basehttp 21536 1863316592 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:57 log 21536 1838150768 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:46:57 basehttp 21536 1838150768 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:58 log 21536 1838150768 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:46:58 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:58 log 21536 1863316592 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:46:58 basehttp 21536 1863316592 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:58 log 21536 1863316592 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:46:58 basehttp 21536 1863316592 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:58 log 21536 1838150768 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:46:58 basehttp 21536 1838150768 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:59 log 21536 1838150768 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:46:59 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:59 log 21536 1863316592 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:46:59 basehttp 21536 1863316592 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:59 log 21536 1838150768 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:46:59 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:46:59 log 21536 1863316592 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:46:59 basehttp 21536 1863316592 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:00 log 21536 1863316592 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:00 basehttp 21536 1863316592 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:00 log 21536 1838150768 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:00 basehttp 21536 1838150768 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:01 log 21536 1863316592 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:01 log 21536 1838150768 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:01 basehttp 21536 1863316592 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:01 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+INFO 28/Jan/2019 12:47:01 basehttp 21536 1838150768 "GET / HTTP/1.1" 200 2145
+INFO 28/Jan/2019 12:47:01 basehttp 21536 1838150768 "GET /static/css/1.4b68b18b.chunk.css HTTP/1.1" 304 0
+INFO 28/Jan/2019 12:47:01 basehttp 21536 1863316592 "GET /static/css/main.20a6d4c4.chunk.css HTTP/1.1" 304 0
+INFO 28/Jan/2019 12:47:01 basehttp 21536 1829762160 "GET /static/js/1.cfc3be95.chunk.js HTTP/1.1" 304 0
+INFO 28/Jan/2019 12:47:01 basehttp 21536 1863316592 "GET /static/js/main.4f70be41.chunk.js HTTP/1.1" 304 0
+WARNING 28/Jan/2019 12:47:02 log 21536 1863316592 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:02 basehttp 21536 1863316592 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:02 log 21536 1829762160 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:02 basehttp 21536 1829762160 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+INFO 28/Jan/2019 12:47:02 basehttp 21536 1863316592 "GET /static/media/roboto-latin-400.5d4aeb4e.woff2 HTTP/1.1" 304 0
+INFO 28/Jan/2019 12:47:02 basehttp 21536 1829762160 "GET /api/dashboard/?format=json HTTP/1.1" 200 2
+WARNING 28/Jan/2019 12:47:03 log 21536 1829762160 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:03 basehttp 21536 1829762160 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:03 log 21536 1863316592 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:03 basehttp 21536 1863316592 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:05 log 21536 1863316592 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:05 basehttp 21536 1863316592 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:05 log 21536 1829762160 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:05 basehttp 21536 1829762160 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:06 log 21536 1829762160 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:06 basehttp 21536 1829762160 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:06 log 21536 1863316592 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:06 basehttp 21536 1863316592 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:06 log 21536 1863316592 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:06 basehttp 21536 1863316592 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:06 log 21536 1829762160 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:06 basehttp 21536 1829762160 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:07 log 21536 1829762160 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:07 basehttp 21536 1829762160 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:07 log 21536 1863316592 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:07 basehttp 21536 1863316592 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:08 log 21536 1863316592 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:08 basehttp 21536 1863316592 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:08 log 21536 1829762160 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:08 basehttp 21536 1829762160 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:09 log 21536 1863316592 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:09 basehttp 21536 1863316592 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:09 log 21536 1829762160 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:09 basehttp 21536 1829762160 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+INFO 28/Jan/2019 12:47:10 basehttp 21536 1829762160 "GET /api/dashboard/?format=json HTTP/1.1" 200 2
+WARNING 28/Jan/2019 12:47:11 log 21536 1863316592 Not Found: /api/dashboard/temp/vsc_0001
+INFO 28/Jan/2019 12:47:11 basehttp 21536 1829762160 "GET /api/dashboard/?format=json HTTP/1.1" 200 2
+WARNING 28/Jan/2019 12:47:11 basehttp 21536 1863316592 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:11 log 21536 1838150768 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:11 basehttp 21536 1838150768 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:12 log 21536 1838150768 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:12 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:12 log 21536 1829762160 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:12 basehttp 21536 1829762160 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:14 log 21536 1838150768 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:14 log 21536 1829762160 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:14 basehttp 21536 1838150768 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:14 basehttp 21536 1829762160 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:14 log 21536 1838150768 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:14 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:14 log 21536 1829762160 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:14 basehttp 21536 1829762160 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:15 log 21536 1838150768 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:15 log 21536 1829762160 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:15 basehttp 21536 1829762160 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:15 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:15 log 21536 1829762160 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:15 basehttp 21536 1829762160 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:15 log 21536 1838150768 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:15 basehttp 21536 1838150768 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:17 log 21536 1838150768 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:17 log 21536 1829762160 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:17 basehttp 21536 1829762160 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:17 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+INFO 28/Jan/2019 12:47:17 basehttp 21536 1829762160 "GET /api/dashboard/?format=json HTTP/1.1" 200 2
+WARNING 28/Jan/2019 12:47:18 log 21536 1829762160 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:18 basehttp 21536 1829762160 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:18 log 21536 1838150768 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:18 basehttp 21536 1838150768 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:20 log 21536 1838150768 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:20 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:20 log 21536 1829762160 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:20 basehttp 21536 1829762160 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:21 log 21536 1829762160 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:21 basehttp 21536 1829762160 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:21 log 21536 1838150768 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:21 basehttp 21536 1838150768 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:22 log 21536 1838150768 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:22 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:22 log 21536 1829762160 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:22 basehttp 21536 1829762160 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:23 log 21536 1829762160 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:23 basehttp 21536 1829762160 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:23 log 21536 1838150768 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:23 basehttp 21536 1838150768 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:23 log 21536 1829762160 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:23 basehttp 21536 1829762160 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:23 log 21536 1838150768 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:23 basehttp 21536 1838150768 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:24 log 21536 1838150768 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:24 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:24 log 21536 1829762160 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:24 basehttp 21536 1829762160 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+INFO 28/Jan/2019 12:47:24 basehttp 21536 1829762160 "GET /static/media/roboto-latin-500.28546717.woff2 HTTP/1.1" 304 0
+INFO 28/Jan/2019 12:47:25 basehttp 21536 1829762160 "GET /api/dashboard/?format=json HTTP/1.1" 200 2
+INFO 28/Jan/2019 12:47:26 basehttp 21536 1829762160 "GET /api/dashboard/?format=json HTTP/1.1" 200 2
+WARNING 28/Jan/2019 12:47:26 log 21536 1838150768 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:26 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:26 log 21536 1863316592 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:26 basehttp 21536 1863316592 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:27 log 21536 1863316592 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:27 basehttp 21536 1863316592 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:27 log 21536 1838150768 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:27 basehttp 21536 1838150768 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:29 log 21536 1838150768 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:29 basehttp 21536 1838150768 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:29 log 21536 1863316592 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:29 basehttp 21536 1863316592 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:30 log 21536 1863316592 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:30 basehttp 21536 1863316592 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:30 log 21536 1838150768 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:30 basehttp 21536 1838150768 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:30 log 21536 1863316592 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:30 basehttp 21536 1863316592 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:30 log 21536 1829762160 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:30 basehttp 21536 1829762160 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:31 log 21536 1829762160 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:31 basehttp 21536 1829762160 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:31 log 21536 1863316592 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:31 basehttp 21536 1863316592 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:32 log 21536 1863316592 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:32 basehttp 21536 1863316592 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:32 log 21536 1829762160 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:32 basehttp 21536 1829762160 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+INFO 28/Jan/2019 12:47:32 basehttp 21536 1829762160 "GET /api/dashboard/?format=json HTTP/1.1" 200 2
+WARNING 28/Jan/2019 12:47:33 log 21536 1829762160 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:33 basehttp 21536 1829762160 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:33 log 21536 1863316592 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:33 basehttp 21536 1863316592 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:35 log 21536 1863316592 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:35 basehttp 21536 1863316592 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:35 log 21536 1829762160 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:35 basehttp 21536 1829762160 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:36 log 21536 1829762160 Not Found: /api/dashboard/temp/vsc_0001
+WARNING 28/Jan/2019 12:47:36 log 21536 1863316592 Not Found: /api/dashboard/bpm/vsc_0001
+WARNING 28/Jan/2019 12:47:36 basehttp 21536 1863316592 "GET /api/dashboard/bpm/vsc_0001?format=json HTTP/1.1" 404 0
+WARNING 28/Jan/2019 12:47:36 basehttp 21536 1829762160 "GET /api/dashboard/temp/vsc_0001?format=json HTTP/1.1" 404 0
