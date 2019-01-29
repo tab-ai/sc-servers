@@ -4,6 +4,9 @@ set -ue
 
 script_dir=`dirname $0`
 
+# create log folder
+mkdir -p $script_dir/log
+
 # bluetoothctl restart (STDERR)
 echo "power off" | sudo bluetoothctl 1>/dev/null
 echo "power on" | sudo bluetoothctl 1>/dev/null
